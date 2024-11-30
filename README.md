@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm Ahmadullah Hadi, an aspiring IT professional with a pa
 
 ## 🌍 **About Me**
 - **Location**: Bangladesh 🇧🇩  
-- **Interests**: Programming, Marketing 📈, Finance 💵, Krav Maga 🥋, Reading Books 📚  
+- **Interests**: Programming, Marketing 📈, Finance 💵, Martial Arts 🥋, Reading Books 📚  
 - **Personality**: ISTP (The Virtuoso) - Problem solver, critical thinker, and tech enthusiast  
 - **Current Focus**: Learning programming, hacking, and practicing self-discipline (exercise, weight management ⚖️, productivity)
 
