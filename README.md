@@ -25,15 +25,14 @@ Welcome to my GitHub! I'm Ahmadullah Hadi, an aspiring IT professional with a pa
 
 ---
 
-## 🎯 **Goals & Ambitions**
-1. **Build a Gaming PC** to enhance learning and development 🖥️  
-2. **Master Technical Skills** through hands-on projects 🔧  
-3. **Explore Business Opportunities** in Bangladesh with minimal resources 🌱
+## 🎯 **Goals & Ambitions**  
+1. **Master Technical Skills** through hands-on projects 🔧  
+2. **Explore Business Opportunities** in Bangladesh with minimal resources 🌱
 
 ---
 
 ## 🤝 **Connect with Me**
 - **Email**: [ahmadullahhadi85@gmail.com](mailto:ahmadullahhadi85@gmail.com)  
-- **Phone**: +880 1611-469710  
+- **WhatsApp**: https//wa.me+880 1611-469710  
 
 Feel free to reach out if you'd like to collaborate or share ideas! 🤝
