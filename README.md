@@ -33,6 +33,6 @@ Welcome to my GitHub! I'm Ahmadullah Hadi, an aspiring IT professional with a pa
 
 ## 🤝 **Connect with Me**
 - **Email**: [ahmadullahhadi85@gmail.com](mailto:ahmadullahhadi85@gmail.com)  
-- **WhatsApp**: (wa.me/+8801611469710)  
+- **Phone**: +880 1611-469710  
 
-Feel free to reach out if you'd like to collaborate or share ideas! 🤝
+Feel free to reach out! 🤝
