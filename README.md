@@ -1,4 +1,4 @@
-<h1 align="center">Ahmadullah Hadi</h1>
+<h1 align="center">A. Hadi</h1>
 <h3 align="center">Cybersecurity Enthusiast | Tech Learner | Future Cyber Defender</h3>
 
 <p align="center">
